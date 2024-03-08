@@ -40,3 +40,17 @@ E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\refint\clase1.dll
 E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.pdb
 E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.genruntimeconfig.cache
 E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\ref\clase1.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.exe
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.deps.json
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.runtimeconfig.json
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.pdb
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.AssemblyInfo.cs
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\refint\clase1.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.pdb
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.genruntimeconfig.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\clase1\obj\Debug\net7.0\ref\clase1.dll
