@@ -26,3 +26,17 @@ E:\UPC\PRO III\carlos\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.dll
 E:\UPC\PRO III\carlos\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.pdb
 E:\UPC\PRO III\carlos\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.genruntimeconfig.cache
 E:\UPC\PRO III\carlos\Carlos_proIII\clase1\obj\Debug\net7.0\ref\clase1.dll
+E:\UPC\class\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.exe
+E:\UPC\class\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.deps.json
+E:\UPC\class\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.runtimeconfig.json
+E:\UPC\class\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.dll
+E:\UPC\class\Carlos_proIII\clase1\bin\Debug\net7.0\clase1.pdb
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.AssemblyInfoInputs.cache
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.AssemblyInfo.cs
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.csproj.CoreCompileInputs.cache
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.dll
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\refint\clase1.dll
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.pdb
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\clase1.genruntimeconfig.cache
+E:\UPC\class\Carlos_proIII\clase1\obj\Debug\net7.0\ref\clase1.dll

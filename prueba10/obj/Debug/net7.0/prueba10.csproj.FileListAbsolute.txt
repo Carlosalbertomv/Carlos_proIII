@@ -1,0 +1,14 @@
+E:\UPC\prueba10\bin\Debug\net7.0\prueba10.exe
+E:\UPC\prueba10\bin\Debug\net7.0\prueba10.deps.json
+E:\UPC\prueba10\bin\Debug\net7.0\prueba10.runtimeconfig.json
+E:\UPC\prueba10\bin\Debug\net7.0\prueba10.dll
+E:\UPC\prueba10\bin\Debug\net7.0\prueba10.pdb
+E:\UPC\prueba10\obj\Debug\net7.0\prueba10.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC\prueba10\obj\Debug\net7.0\prueba10.AssemblyInfoInputs.cache
+E:\UPC\prueba10\obj\Debug\net7.0\prueba10.AssemblyInfo.cs
+E:\UPC\prueba10\obj\Debug\net7.0\prueba10.csproj.CoreCompileInputs.cache
+E:\UPC\prueba10\obj\Debug\net7.0\prueba10.dll
+E:\UPC\prueba10\obj\Debug\net7.0\refint\prueba10.dll
+E:\UPC\prueba10\obj\Debug\net7.0\prueba10.pdb
+E:\UPC\prueba10\obj\Debug\net7.0\prueba10.genruntimeconfig.cache
+E:\UPC\prueba10\obj\Debug\net7.0\ref\prueba10.dll
