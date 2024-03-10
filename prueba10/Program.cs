@@ -42,7 +42,6 @@ namespace HelloWorld
       string resultado = resto + primero + segundo;
       Console.WriteLine(resultado);
     }
-    //cambio en casa
  }
  
 }
