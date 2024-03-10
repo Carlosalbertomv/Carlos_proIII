@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ALUMNO\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\vectores.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\vectores.csproj",
       "projectName": "vectores",
-      "projectPath": "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\vectores.csproj",
-      "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
-      "outputPath": "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\vectores.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

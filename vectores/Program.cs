@@ -53,7 +53,7 @@ namespace HelloWorld
        cambio[3] = cambio[2];
        cambio[2] = temp;
        Console.WriteLine("\n vector con posicion de intercambio: ");
-       imprimirCambio(cambio);
+       imprimirVector(cambio);
 
     }
     

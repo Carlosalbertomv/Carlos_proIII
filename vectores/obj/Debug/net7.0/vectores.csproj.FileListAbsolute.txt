@@ -12,3 +12,17 @@ E:\UPC\carlos\Carlos_proIII\vectores\obj\Debug\net7.0\refint\vectores.dll
 E:\UPC\carlos\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.pdb
 E:\UPC\carlos\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.genruntimeconfig.cache
 E:\UPC\carlos\Carlos_proIII\vectores\obj\Debug\net7.0\ref\vectores.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.AssemblyInfo.cs
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\refint\vectores.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.pdb
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\bin\Debug\net7.0\vectores.exe
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\bin\Debug\net7.0\vectores.deps.json
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\bin\Debug\net7.0\vectores.runtimeconfig.json
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\bin\Debug\net7.0\vectores.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\bin\Debug\net7.0\vectores.pdb
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\vectores.genruntimeconfig.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\vectores\obj\Debug\net7.0\ref\vectores.dll
