@@ -12,3 +12,17 @@ E:\UPC\prueba10\obj\Debug\net7.0\refint\prueba10.dll
 E:\UPC\prueba10\obj\Debug\net7.0\prueba10.pdb
 E:\UPC\prueba10\obj\Debug\net7.0\prueba10.genruntimeconfig.cache
 E:\UPC\prueba10\obj\Debug\net7.0\ref\prueba10.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\bin\Debug\net7.0\prueba10.exe
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\bin\Debug\net7.0\prueba10.deps.json
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\bin\Debug\net7.0\prueba10.runtimeconfig.json
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\bin\Debug\net7.0\prueba10.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\bin\Debug\net7.0\prueba10.pdb
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\prueba10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\prueba10.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\prueba10.AssemblyInfo.cs
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\prueba10.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\prueba10.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\refint\prueba10.dll
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\prueba10.pdb
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\prueba10.genruntimeconfig.cache
+C:\Users\PC\Documents\MATERIAS UPC\progra III\repositorio de git\Carlos_proIII\prueba10\obj\Debug\net7.0\ref\prueba10.dll
