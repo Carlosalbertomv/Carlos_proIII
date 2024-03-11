@@ -17,8 +17,10 @@ namespace HelloWorld
       Console.WriteLine($"El promedio de las 2 notas es: {promedio}");*/
 
       //rotar();
-      rotar2(); 
+      //rotar2(); 
+      FiltrarDigitosImpares(numero);
       Console.ReadLine();
+
 
       
      
@@ -41,7 +43,40 @@ namespace HelloWorld
       string resto = numero.Substring(2, numero.Length - 2);
       string resultado = resto + primero + segundo;
       Console.WriteLine(resultado);
+
+      
     }
+
+    //PRACTICA
+    static void imprimirVector(int[] vector)
+    {
+        string vectorString = "";
+        foreach(int elemento in vector) {
+            vectorString = vectorString + elemento + " ";
+        }
+
+        Console.WriteLine(vectorString);
+    }
+
+    static void FiltrarDigitosImpares(int numero)
+    {
+      int resultado = 0;
+      int potencia = 1;
+
+      while (numero != 0)
+      {
+        int digito = numero % 10;
+        if (digito % 2 != 0)
+        {
+          resultado += digito * potencia;
+          potencia *= 10;
+        }
+        numero /= 10;
+      }
+      Console.WriteLine("El resultado es: " + resultado);
+      imprimirVector(numero);
+
+    } 
  }
  
 }
