@@ -126,6 +126,15 @@ namespace HelloWorld
 
         Console.WriteLine(suma);
     }
+    // tarea de pa mañana martes
+    static void Recorrer(int[] vector, int numero, int posicion)
+    {
+        int numero = 10;
+        int posicion = 1;
+        for ()
+
+        Console.WriteLine(suma);
+    }
 
     
 
