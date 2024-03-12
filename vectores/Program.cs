@@ -20,7 +20,10 @@ namespace HelloWorld
 
     
         //imprimirCambio();
-        intercambio(numeros);
+        //intercambio(numeros);
+        int[] vector = {1,2,3,4,5};
+        sumaVectorImparYPar(vector);
+        multiplosDe3(vector);
 
       
      
@@ -56,6 +59,77 @@ namespace HelloWorld
        imprimirVector(cambio);
 
     }
+
+    static void sumavector(int[] vector)
+    {
+        int suma = 0;
+        foreach(int elemento in vector) {
+            suma = suma + elemento;
+            if (elemento > 4)
+            {
+                break;
+            }
+        }
+
+        Console.WriteLine(suma);
+    }
+
+    static void sumaVectorImpar(int[] vector)
+    {
+        int suma = 0;
+        foreach(int elemento in vector) {
+            
+            if ((elemento % 2) != 0)
+            {
+                suma = suma + elemento;
+            }
+        
+        }
+
+        Console.WriteLine(suma);
+    }
+
+    static void sumaVectorImparYPar(int[] vector)
+    {
+        int par= 0;
+        int impar=0;
+
+        foreach(int elemento in vector) {
+            
+            if ((elemento % 2) == 0)
+            {
+                par = par + elemento;
+            }
+
+            else
+            {
+                impar = impar + elemento;
+            }
+            
+        
+        }
+
+        Console.WriteLine("la suma de pares es: " + par + "\nla suma de impares es: " + impar);
+    }
+
+    static void multiplosDe3(int[] vector)
+    {
+        int suma = 0;
+        foreach(int elemento in vector) {
+            
+            if ((elemento % 3) == 0)
+            {
+                suma = suma+1 ;
+            }
+        
+        }
+
+        Console.WriteLine(suma);
+    }
+
+    
+
+
     
 
    

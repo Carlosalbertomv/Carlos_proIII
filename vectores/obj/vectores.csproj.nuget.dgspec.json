@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\vectores.csproj": {}
+    "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\vectores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\vectores.csproj": {
+    "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\vectores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\vectores.csproj",
+        "projectUniqueName": "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\vectores.csproj",
         "projectName": "vectores",
-        "projectPath": "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\vectores.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\MATERIAS UPC\\progra III\\repositorio de git\\Carlos_proIII\\vectores\\obj\\",
+        "projectPath": "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\vectores.csproj",
+        "packagesPath": "C:\\Users\\ALUMNO\\.nuget\\packages\\",
+        "outputPath": "E:\\UPC\\carlos\\Carlos_proIII\\vectores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ALUMNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
