@@ -22,12 +22,14 @@ namespace HelloWorld
         //imprimirCambio();
         //intercambio(numeros);
         int[] vector = {1,2,3,4,5};
-        sumaVectorImparYPar(vector);
-        multiplosDe3(vector);
+        //sumaVectorImparYPar(vector);
+        //multiplosDe3(vector);
        //LlenarVector(vector);
 
        string palabra = Console.ReadLine();
        llenarVectorString(palabra);
+       //LlenarVectoresprimo(3);
+       //LlenarVector(10);
       
      
     }
@@ -35,7 +37,8 @@ namespace HelloWorld
     static void imprimirVector(int[] vector)
     {
         string vectorString = "";
-        foreach(int elemento in vector) {
+        foreach(int elemento in vector)
+        {
             vectorString = vectorString + elemento + " ";
         }
 
@@ -154,14 +157,14 @@ namespace HelloWorld
         Console.WriteLine(suma);
     }*/
 
-    /*static void LlenarVector(int cantidad)
+    static void LlenarVector(int cantidad)
     {
         int[] vector = new int[cantidad];
         int numero = 1;
 
         for (int i = 0; i < cantidad; i++)
         {
-            while (!sumaVectorPar(numero))
+            while (esPar(numero))
             {
                 numero++;
             }
@@ -197,7 +200,7 @@ namespace HelloWorld
 
         for (int i = 0; i < cantidad; i++)
         {
-            while (!esPar(numero))
+            while (!esPrimo(numero))
             {
                 numero++;
             }
@@ -207,7 +210,7 @@ namespace HelloWorld
         }
 
         imprimirVector(vector);
-    }*/
+    }
 
     //ver par
     static bool esPar(int numero)
@@ -241,9 +244,23 @@ namespace HelloWorld
             letras[i] = palabra[i];
         }
 
-        imprimirVectorLetras(letras);
+        imprimirVectoreGenerale(letras);
        
     }
+
+    //imprimir vectores general
+    static void imprimirVectoreGenerale<T>(T[] vector)
+    {
+        foreach(T elemento in vector)
+        {
+            Console.Write(elemento + " ");
+        }
+
+        Console.WriteLine();
+    }
+    
+
+
 
 
     
