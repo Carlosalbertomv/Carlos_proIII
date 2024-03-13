@@ -30,6 +30,8 @@ namespace HelloWorld
        llenarVectorString(palabra);
        //LlenarVectoresprimo(3);
        //LlenarVector(10);
+       /*string oracion = Console.ReadLine();
+       LlenarstringOracion(oracion);*/
       
      
     }
@@ -257,6 +259,12 @@ namespace HelloWorld
         }
 
         Console.WriteLine();
+    }
+
+    static void LlenarstringOracion(string oracion)
+    {
+        string[] palabras = oracion.Split(' ');
+        imprimirVectoreGenerale(palabras); 
     }
     
 
