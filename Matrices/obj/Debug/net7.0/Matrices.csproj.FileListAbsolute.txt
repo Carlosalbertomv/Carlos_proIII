@@ -1,0 +1,14 @@
+E:\UPC\carlos\Carlos_proIII\Matrices\bin\Debug\net7.0\Matrices.exe
+E:\UPC\carlos\Carlos_proIII\Matrices\bin\Debug\net7.0\Matrices.deps.json
+E:\UPC\carlos\Carlos_proIII\Matrices\bin\Debug\net7.0\Matrices.runtimeconfig.json
+E:\UPC\carlos\Carlos_proIII\Matrices\bin\Debug\net7.0\Matrices.dll
+E:\UPC\carlos\Carlos_proIII\Matrices\bin\Debug\net7.0\Matrices.pdb
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\Matrices.AssemblyInfoInputs.cache
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\Matrices.AssemblyInfo.cs
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\Matrices.csproj.CoreCompileInputs.cache
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\Matrices.dll
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\refint\Matrices.dll
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\Matrices.pdb
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\Matrices.genruntimeconfig.cache
+E:\UPC\carlos\Carlos_proIII\Matrices\obj\Debug\net7.0\ref\Matrices.dll
