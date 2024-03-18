@@ -16,14 +16,21 @@ namespace HelloWorld
         int b = 5; // Límite superior del rango
 
         int todosElementos = todosElementosEnRango(vec, a, b);
-        Console.WriteLine("Hay " + todosElementos + " elementos dentro del rango.");*/
+        Console.WriteLine("Hay " + todosElementos + " elementos dentro del rango.");
         int filas = 3; // Número de filas en la matriz
-        int columnas = 5; // Número de columnas en la matriz
+        int columnas = 5; // Número de columnas en la matriz*/
 
-        int[,] matriz = GenerarMatrizB(filas, columnas);
-
+        //int[,] matriz = GenerarMatrizB(filas, columnas);
+        int[] vec = {2,9};
+        int a = 4;
+        int b = 7;
+        bool elementos = todosElementosEnRango(vec, a,b);
+        
+        //int contar = contarDigitos();
+        //Console.WriteLine(contar);
+        Console.WriteLine(elementos);
         // Imprimir la matriz
-        ImprimirMatriZ(matriz);
+        //ImprimirMatriZ(matriz);
 
     }
 
@@ -150,13 +157,30 @@ namespace HelloWorld
     {
         foreach (int elemento in vector) // Iteramos sobre cada elemento del vector
         {
-            if (elemento < a || elemento > b) // Verificamos si el elemento está fuera del rango [a, b]
+            if (!(elemento < a || elemento > b)) // Verificamos si el elemento está fuera del rango [a, b]
             {
                 return false; // Si encontramos un elemento fuera del rango, devolvemos false
             }
         }
             return true; // Si todos los elementos están dentro del rango, devolvemos true al final del bucle
     }
+
+    static bool todosElementosEnRangoB(int[] vector, int a, int b)
+    {
+        foreach (int elemento in vector) // Iteramos sobre cada elemento del vector
+        {
+            if ((elemento < a || elemento > b)) // Verificamos si el elemento está fuera del rango [a, b]
+            {
+                return false; // Si encontramos un elemento fuera del rango, devolvemos false
+            }
+        }
+            return true; // Si todos los elementos están dentro del rango, devolvemos true al final del bucle
+    }
+
+    static int contarDigitos(int numero) // devuelve cantidad de digitos de un numero
+        {
+            return numero.ToString().Length;
+        }
 
     static int[,] GenerarMatrizPatron(int filas, int columnas)
     {
