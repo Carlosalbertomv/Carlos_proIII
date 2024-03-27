@@ -1,0 +1,14 @@
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\bin\Debug\net7.0\ArchivosTxt.exe
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\bin\Debug\net7.0\ArchivosTxt.deps.json
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\bin\Debug\net7.0\ArchivosTxt.runtimeconfig.json
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\bin\Debug\net7.0\ArchivosTxt.dll
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\bin\Debug\net7.0\ArchivosTxt.pdb
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ArchivosTxt.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ArchivosTxt.AssemblyInfoInputs.cache
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ArchivosTxt.AssemblyInfo.cs
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ArchivosTxt.csproj.CoreCompileInputs.cache
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ArchivosTxt.dll
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\refint\ArchivosTxt.dll
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ArchivosTxt.pdb
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ArchivosTxt.genruntimeconfig.cache
+E:\UPC\carlos\Carlos_proIII\ArchivosTxt\obj\Debug\net7.0\ref\ArchivosTxt.dll
