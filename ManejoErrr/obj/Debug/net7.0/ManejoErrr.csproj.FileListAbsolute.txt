@@ -1,0 +1,14 @@
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ManejoErrr.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ManejoErrr.AssemblyInfoInputs.cache
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ManejoErrr.AssemblyInfo.cs
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ManejoErrr.csproj.CoreCompileInputs.cache
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\bin\Debug\net7.0\ManejoErrr.exe
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\bin\Debug\net7.0\ManejoErrr.deps.json
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\bin\Debug\net7.0\ManejoErrr.runtimeconfig.json
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\bin\Debug\net7.0\ManejoErrr.dll
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\bin\Debug\net7.0\ManejoErrr.pdb
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ManejoErrr.dll
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\refint\ManejoErrr.dll
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ManejoErrr.pdb
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ManejoErrr.genruntimeconfig.cache
+E:\UPC\carlos\Carlos_proIII\ManejoErrr\obj\Debug\net7.0\ref\ManejoErrr.dll
