@@ -80,19 +80,31 @@ namespace HelloWorld
 
       }*/
 
-      int[] vectorOriginal = {1, 2, 3, 4, 5};
+      int[] vectorOriginal = {1, 2, 3, 2,1};
       int[] vectorVolteado = VoltearVector(vectorOriginal);
       Console.WriteLine("El vector volteado es:");
       ImprimirVector(vectorVolteado);
 
       try
       {
-
+        if(EsCapicua(vectorOriginal,vectorVolteado))
+        {
+            throw new ExceptionVolteo();
+        }
       }
-      catch(ExceptionVolteo)
+      catch(ExceptionVolteo e)
       {
+        Console.WriteLine(e.Message);
 
       }
+      catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+      finally
+        {
+            Console.WriteLine("Gracias por el uso.");
+        }
 
 
       
@@ -166,6 +178,18 @@ namespace HelloWorld
         }
         Console.WriteLine();
     }
+
+    static bool EsCapicua(int[] vectorOriginal, int[] vectorVolteado)
+    {
+        for (int i = 0; i < vectorOriginal.Length; i++)
+        {
+            if (vectorOriginal[i] != vectorVolteado[i])
+            {
+                return false;
+            }
+        }
+        return true;
+    }
    
   }
   
@@ -188,6 +212,14 @@ namespace HelloWorld
   public class ExceptionVocales : Exception
   {
     public ExceptionVocales( ) : base("se paso de la cantidad de vocales")
+    {
+
+    }
+  }
+
+  public class ExceptionVolteo : Exception
+  {
+    public ExceptionVolteo( ) : base("el vector es capicúa")
     {
 
     }
