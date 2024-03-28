@@ -1,0 +1,13 @@
+3 es primo
+4 no es primo
+6 no es primo
+7 es primo
+3 es primo
+4 no es primo
+6 no es primo
+7 es primo
+107 es primo
+101 es primo
+7 es primo
+25 no es primo
+5 es primo
