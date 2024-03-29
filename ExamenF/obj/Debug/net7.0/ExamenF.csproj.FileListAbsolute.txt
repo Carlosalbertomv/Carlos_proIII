@@ -1,0 +1,14 @@
+E:\UPC\carlos\Carlos_proIII\ExamenF\bin\Debug\net7.0\ExamenF.exe
+E:\UPC\carlos\Carlos_proIII\ExamenF\bin\Debug\net7.0\ExamenF.deps.json
+E:\UPC\carlos\Carlos_proIII\ExamenF\bin\Debug\net7.0\ExamenF.runtimeconfig.json
+E:\UPC\carlos\Carlos_proIII\ExamenF\bin\Debug\net7.0\ExamenF.dll
+E:\UPC\carlos\Carlos_proIII\ExamenF\bin\Debug\net7.0\ExamenF.pdb
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ExamenF.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ExamenF.AssemblyInfoInputs.cache
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ExamenF.AssemblyInfo.cs
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ExamenF.csproj.CoreCompileInputs.cache
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ExamenF.dll
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\refint\ExamenF.dll
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ExamenF.pdb
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ExamenF.genruntimeconfig.cache
+E:\UPC\carlos\Carlos_proIII\ExamenF\obj\Debug\net7.0\ref\ExamenF.dll

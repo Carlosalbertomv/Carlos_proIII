@@ -1,0 +1,3 @@
+D=> la palabra mas corta ; R=> la
+D=> a a a ; R=> a
+D=> ? ; R=> 
