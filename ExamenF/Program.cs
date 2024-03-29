@@ -15,8 +15,22 @@ namespace HelloWorld
       //string le = "carlos es hola es todo mamama ";
       
       //Console.WriteLine(FindMostRepeatedWord(le));
-      guardarDatosCompletos();
+      guardarDatosCompletos2();
 
+    }
+
+    static int ProductoDigitos(int numero)
+    {
+        int producto = 1;
+
+        while (numero != 0)
+        {
+            int digito = numero % 10;
+            producto *= digito;
+            numero /= 10;
+        }
+
+        return producto;
     }
 
   
@@ -37,7 +51,7 @@ namespace HelloWorld
 
                 while ((linea = reader.ReadLine()) != null)
                 {
-                    string contadorVocales = LetraCorta(linea);
+                    int contadorVocales = EncontrarMenorDigito(linea);
 
                     // Formatear la salida según el formato requerido
                     string salida = "D=> " + linea + " ; R=> " + contadorVocales + "";
@@ -118,14 +132,13 @@ namespace HelloWorld
                         // Convertir la línea a un número entero
                         if (int.TryParse(linea, out int numero))
                         {
-                            bool EsPrimo = esPrimo(numero);
-                            string resultado = EsPrimo ? "es primo" : "no es primo";
+                            int contadorVocales = ProductoDigitos(numero);
 
-                            // Formatear la salida según el formato requerido
-                            string salida = $"{numero} {resultado}";
+                    // Formatear la salida según el formato requerido
+                    string salida = "D=> " + numero + " ; R=> " + contadorVocales + "";
 
-                            // Escribir la salida en el archivo de salida
-                            writer.WriteLine(salida);
+                    // Escribir la salida en el archivo de salida
+                    writer.WriteLine(salida);
                         }
                         else
                         {
@@ -248,6 +261,25 @@ namespace HelloWorld
         }
 
         return shortestWord;
+    }
+
+    static Dictionary<int, int> ContarNumerosRepetidos(int[] numeros)
+    {
+        Dictionary<int, int> contador = new Dictionary<int, int>();
+
+        foreach (int numero in numeros)
+        {
+            if (contador.ContainsKey(numero))
+            {
+                contador[numero]++;
+            }
+            else
+            {
+                contador[numero] = 1;
+            }
+        }
+
+        return contador;
     }
 
 
